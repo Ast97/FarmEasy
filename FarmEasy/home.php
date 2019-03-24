@@ -65,6 +65,26 @@ session_start();
 					<br><span class="text">Crop Predictor</span>
 				</a>
 			</div>
+			<div class="row">
+				<a href="login.php" class="box" style="margin-right: 20px;">
+					<i class="fa fa-shopping-cart border"></i>
+					<br><span class="text">E - Commerce</span>
+				</a>
+				<a href="#" class="box">
+					<i class="fa fa-comments border"></i>
+					<br><span class="text">Farmer's Forum</span>
+				</a>
+			</div>
+			<div class="row">
+				<a href="#" class="box" style="margin-right: 20px;">
+					<i class="fa fa-inr border"></i>
+					<br><span class="text">Donate For a Cause</span>
+				</a>
+				<a href="#" class="box">
+					<img src="fert.png" class="border" style="width: 100px;background: #99d65c;">
+					<br><span class="text">Fertilizers/ Pesticides</span>
+				</a>
+			</div>
 	</div>
 </div>
 <footer>
