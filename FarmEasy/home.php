@@ -30,7 +30,7 @@ session_start();
 					<i class="fa fa-sign-out border"></i>
 					<br><span class="text">Signout</span>
 				</a>
-				<a href="#" class="box">
+				<a href="videos.php" class="box">
 					<i class="fa fa-play border"></i>
 					<br><span class="text">Online Tutorials</span>
 				</a>
@@ -40,13 +40,13 @@ session_start();
 					<i class="fa fa-phone border"></i>
 					<br><span class="text">Kisan Call Center</span>
 				</a>
-				<a href="#" class="box">
+				<a href="agri.php" class="box">
 					<i class="fa fa-edit border"></i>
 					<br><span class="text">Agricultural Schemes</span>
 				</a>
 			</div>
 			<div class="row">
-				<a href="#" class="box" style="margin-right: 20px;">
+				<a href="events.php" class="box" style="margin-right: 20px;">
 					<i class="fa fa-calendar border"></i>
 					<br><span class="text">Events</span>
 				</a>
